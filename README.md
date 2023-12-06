@@ -2,6 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchithrt&label=Profile%20views&color=0e75b6&style=flat" alt="ruchithrt" /> </p>
 <p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> </p>
 
+<h1>About Me:</h1>
 - 📫 How to reach me **ruchithtilavalli3266@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
