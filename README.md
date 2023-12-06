@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchithrt&label=Profile%20views&color=0e75b6&style=flat" alt="ruchithrt" /> </p>
 <p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> </p>
 
-<h1>About Me:</h1>
+<h3 align="left">About Me:</h3>
 🚀 Electronic and communication Engineer | Embedded Systems Enthusiast.<br>
 💡  Skilled Programmer  | Continuous Learner 🌱 <br>
 💻Currently learning and working in frontend development to craft engaging and responsive user interfaces.<br>
