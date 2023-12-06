@@ -10,7 +10,6 @@
 <li>💻Currently learning and working in frontend development to craft engaging and responsive user interfaces.</li><br>
 <li>🧠 Passionate about generative AI and exploring the possibilities of upcoming AI tools.</li><br>
 </ul>
-
 - 📫 How to reach me **ruchithtilavalli3266@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
