@@ -4,12 +4,12 @@
 
 <h3 align="left">About Me:</h3>
 <ul>
-🚀 Electronic and communication Engineer | Embedded Systems Enthusiast.<br>
-💡  Skilled Programmer  | Continuous Learner 🌱 <br>
-💻Currently learning and working in frontend development to craft engaging and responsive user interfaces.<br>
-🧠 Passionate about generative AI and exploring the possibilities of upcoming AI tools.<br>
+<li>🚀 Electronic and communication Engineer | Embedded Systems Enthusiast.</li><br>
+<li>💡  Skilled Programmer  | Continuous Learner 🌱 </li><br>
+<li>💻Currently learning and working in frontend development to craft engaging and responsive user interfaces.</li><br>
+<li>🧠 Passionate about generative AI and exploring the possibilities of upcoming AI tools.</li><br>
 
-📫 How to reach me: **ruchithtilavalli3266@gmail.com**
+<li>📫 How to reach me: **ruchithtilavalli3266@gmail.com**</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
