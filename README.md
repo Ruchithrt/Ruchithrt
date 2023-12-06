@@ -3,7 +3,7 @@
 <p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> </p>
 
 <h1>About Me:</h1>
-Good in programming, passionate about AI tools,  frontend development,  and embedded systems <img src="https://tse1.mm.bing.net/th?id=OIP.SB5ceHAML3XiyXsju-hMKgHaEw&pid=Api&P=0&h=180" width="30"><br>
+Good in programming, passionate about AI tools,  frontend development<img src="https://www.kiuwan.com/docs/download/attachments/14844892/devs.png?version=1&modificationDate=1515414225000&api=v2" width="30">,  and embedded systems<img src="https://tse1.mm.bing.net/th?id=OIP.SB5ceHAML3XiyXsju-hMKgHaEw&pid=Api&P=0&h=180" width="30"><br>
 📫 How to reach me **ruchithtilavalli3266@gmail.com**<br>
 📫 How to reach me **ruchithtilavalli3266@gmail.com**<br>
 
