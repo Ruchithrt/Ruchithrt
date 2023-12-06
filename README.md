@@ -9,7 +9,7 @@
 🧠 Passionate about generative AI and exploring the possibilities of upcoming AI tools.<br>
 📧 How to reach me  [Your Email Address](ruchithtilavalli3266@gmail.com)
 
-📫 How to reach me **ruchithtilavalli3266@gmail.com**
+📫 How to reach me: **ruchithtilavalli3266@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
