@@ -3,9 +3,9 @@
 <p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> </p>
 
 <h1>About Me:</h1>
-🚀  Electronic and communication Engineer | Embedded Systems Enthusiast
-_📫 How to reach me **ruchithtilavalli3266@gmail.com**<br>
--📫 How to reach me **ruchithtilavalli3266@gmail.com**<br>
+🚀 Electronic and communication Engineer | Embedded Systems Enthusiast
+💻 Currently learning and working in frontend development to craft engaging and responsive user interfaces.
+🧠 Passionate about generative AI and exploring the possibilities of upcoming AI tools.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
