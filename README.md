@@ -5,9 +5,9 @@
 <h1>About Me:</h1>
 🚀 Electronic and communication Engineer | Embedded Systems Enthusiast.<br>
 💡  Skilled Programmer  | Continuous Learner 🌱 <br>
-💻 Currently learning and working in frontend development to craft engaging and responsive user interfaces.<br>
+💻Currently learning and working in frontend development to craft engaging and responsive user interfaces.<br>
 🧠 Passionate about generative AI and exploring the possibilities of upcoming AI tools.<br>
-📫 How to reach me: <a>ruchithtilavalli3266@gmail.com</a>
+- 📫 How to reach me **ruchithtilavalli3266@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
