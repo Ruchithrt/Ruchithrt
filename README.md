@@ -3,13 +3,13 @@
 <p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> </p>
 
 <h3 align="left">About Me:</h3>
-- 🚀 Electronic and communication Engineer | Embedded Systems Enthusiast.<br>
-- 💡  Skilled Programmer  | Continuous Learner 🌱 <br>
-- 💻Currently learning and working in frontend development to craft engaging and responsive user interfaces.<br>
-- 🧠 Passionate about generative AI and exploring the possibilities of upcoming AI tools.<br>
-- 📧 How to reach me  [Your Email Address](ruchithtilavalli3266@gmail.com)
+🚀 Electronic and communication Engineer | Embedded Systems Enthusiast.<br>
+💡  Skilled Programmer  | Continuous Learner 🌱 <br>
+💻Currently learning and working in frontend development to craft engaging and responsive user interfaces.<br>
+🧠 Passionate about generative AI and exploring the possibilities of upcoming AI tools.<br>
+📧 How to reach me  [Your Email Address](ruchithtilavalli3266@gmail.com)
 
-- 📫 How to reach me **ruchithtilavalli3266@gmail.com**
+📫 How to reach me **ruchithtilavalli3266@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
