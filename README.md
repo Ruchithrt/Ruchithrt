@@ -3,7 +3,7 @@
 <p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> </p>
 
 <h1>About Me:</h1>
-skilled in programming, particularly in frontend development and embedded systems**<br>
+Good in programming, passionate about AI tools,  frontend development,  and embedded systems <img src="https://tse1.mm.bing.net/th?id=OIP.SB5ceHAML3XiyXsju-hMKgHaEw&pid=Api&P=0&h=180" width="30"><br>
 📫 How to reach me **ruchithtilavalli3266@gmail.com**<br>
 📫 How to reach me **ruchithtilavalli3266@gmail.com**<br>
 
