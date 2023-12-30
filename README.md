@@ -2,8 +2,6 @@
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchithrt&label=Profile%20views&color=0e75b6&style=flat" alt="ruchithrt" /> </p>
 
-<p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> </p>
-
 <h3 align="left">About Me:</h3>
 <ul>
 <li>🚀 Electronic and communication Engineer | Embedded Systems Enthusiast.</li><br>
