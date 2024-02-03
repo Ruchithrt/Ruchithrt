@@ -5,7 +5,7 @@
 <h3 align="left">About Me:</h3>
 <ul>
 <li>🌍 I'm based in India</li><br>
-<li>👀 Check me on <a href="https://ruchith.netlify.app">ruchith tilavalli</a></li><br>
+<li>👀 Check me on <a href="https://ruchithrt.netlify.app">ruchith tilavalli</a></li><br>
 <li>💡  Programmer  | 🌱 Continuous Learner  </li><br>
 <li>👨‍💻 Currently learning and working on MERN stack</li><br>
 <li>🧠 Passionate about generative AI and exploring the possibilities of upcoming AI tools.</li><br>
